@@ -4,6 +4,11 @@
 * Clone ou baixe o projeto
 * Instale as dependências com `npm i` ou `yarn`
 * Inicie o projeto em modo de desenvolvimento com `npm run dev` ou `yarn dev`
+* Criar um arquivo `.env` com as seguintes configurações:
+
+```
+MONGO=URL DO MONGO
+```
 
 ## Modo de uso
 
